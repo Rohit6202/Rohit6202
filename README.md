@@ -9,7 +9,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohit6202&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit6202&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rohit6202&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit6202&icon=7&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rohit6202&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
